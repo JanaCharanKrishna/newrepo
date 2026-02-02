@@ -1,3 +1,4 @@
 # newrepo
+
 for learning git
-Author - Jana Charan krishna
+Author - Jana Charan Krishna
